@@ -1,0 +1,12 @@
+C:\Users\conta\source\repos\PagamentoImposto\PagamentoImposto\bin\Debug\netcoreapp2.1\PagamentoImposto.deps.json
+C:\Users\conta\source\repos\PagamentoImposto\PagamentoImposto\bin\Debug\netcoreapp2.1\PagamentoImposto.runtimeconfig.json
+C:\Users\conta\source\repos\PagamentoImposto\PagamentoImposto\bin\Debug\netcoreapp2.1\PagamentoImposto.runtimeconfig.dev.json
+C:\Users\conta\source\repos\PagamentoImposto\PagamentoImposto\bin\Debug\netcoreapp2.1\PagamentoImposto.dll
+C:\Users\conta\source\repos\PagamentoImposto\PagamentoImposto\bin\Debug\netcoreapp2.1\PagamentoImposto.pdb
+C:\Users\conta\source\repos\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp2.1\PagamentoImposto.csprojAssemblyReference.cache
+C:\Users\conta\source\repos\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp2.1\PagamentoImposto.AssemblyInfoInputs.cache
+C:\Users\conta\source\repos\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp2.1\PagamentoImposto.AssemblyInfo.cs
+C:\Users\conta\source\repos\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp2.1\PagamentoImposto.csproj.CoreCompileInputs.cache
+C:\Users\conta\source\repos\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp2.1\PagamentoImposto.dll
+C:\Users\conta\source\repos\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp2.1\PagamentoImposto.pdb
+C:\Users\conta\source\repos\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp2.1\PagamentoImposto.genruntimeconfig.cache
